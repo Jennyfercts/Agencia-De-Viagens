@@ -1,4 +1,4 @@
-# Agencia-De-Viagens
+# Agência De Viagens
 
 Protótipo simples desenvolvido em Java para automatizar o cadastro inicial de reservas de passagens internacionais de uma agência de viagens.
 
